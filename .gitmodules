@@ -1,0 +1,3 @@
+[submodule "Encriptador-de-texto"]
+	path = Encriptador-de-texto
+	url = git:https://github.com/clavijoantonio/Encriptador-de-texto.git
